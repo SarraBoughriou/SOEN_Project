@@ -1,0 +1,9 @@
+.vscode
+__pycache__/
+node_modules/
+datasets/
+.env
+*.pyc
+*.pyo       
+*.pyd
+*.db
