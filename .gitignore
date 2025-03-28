@@ -1,0 +1,10 @@
+######
+.vscode/
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info
+venv310/
+datasets/
